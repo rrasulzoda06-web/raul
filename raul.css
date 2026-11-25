@@ -11,19 +11,39 @@ body{
     padding-top: 50px;
     font-size: 25px;
     align-items: center;
+    margin-bottom: 100px;
+    margin-right: 1px;
 }
 .a1{
-    margin-left: 380px;
+    margin-left: 370px;
     padding-right: 60px;
 }
 .a2{
     padding-right: 60px;
 }
 .a4{
-    margin-left: 80px;
+    margin-left: 100px;
     background-color: #608AF5;
     padding: 10px 30px;
     color: white;
     border-radius: 10px;
     font-size: 30px;
+}
+.du{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 130px;
+}
+.b{
+    padding-top: 60px;
+}
+.b1{
+    font-size: 35px;
+}
+.b2{
+    font-size: 50px;
+}
+.b3{
+    font-size: 25px;
+    font-weight: 400;
 }
