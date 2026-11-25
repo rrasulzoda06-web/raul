@@ -194,7 +194,8 @@ body{
 }
 .g2{
     text-align: center;
-    font-size: 35px;
+    font-size: 30px;
     position: relative;
+    color: white;
     top: 250px;
 }
