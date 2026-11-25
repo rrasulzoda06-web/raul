@@ -6,6 +6,9 @@ body{
     max-width: 1200px;
     margin: auto;
 }
+.back{
+    background-image: url(surat/Background.png);
+}
 .yak{
     display: flex;
     font-size: 25px;
@@ -198,4 +201,10 @@ body{
     position: relative;
     color: white;
     top: 250px;
+}
+.g5{
+    font-size: 30px;
+    position: relative;
+    top: -60px;
+    left: 40px;
 }
