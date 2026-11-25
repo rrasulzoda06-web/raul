@@ -59,6 +59,7 @@ body{
 .c2{
     font-size: 40px;
     font-weight: 550;
+    color: #141d58;
 }
 .c{
     display: flex;
@@ -103,6 +104,9 @@ body{
     font-size: 20px;
     padding-left: 65px;
     padding-top: 5px;
+}
+.chor{
+    margin-bottom: 150px;
 }
 .dd{
     display: flex;
@@ -171,4 +175,26 @@ body{
     position: relative;
     top: 28px;
     left: 30px;
+}
+.ff{
+    margin-top: 100px;
+    display: flex;
+    gap: 180px;
+}
+.f1{
+    position: relative;
+    top: -130px;
+    left: 35px;
+}
+.shash{
+    width: 1200px;
+}
+.g1{
+    width: 1200px;
+}
+.g2{
+    text-align: center;
+    font-size: 35px;
+    position: relative;
+    top: 250px;
 }
