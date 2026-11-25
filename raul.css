@@ -8,18 +8,18 @@ body{
 }
 .yak{
     display: flex;
-    padding-top: 50px;
     font-size: 25px;
     align-items: center;
     margin-bottom: 100px;
     margin-right: 1px;
+    margin-top: 50px;
 }
 .a1{
     margin-left: 370px;
     padding-right: 60px;
 }
 .a2{
-    padding-right: 60px;
+    padding-right: 70px;
 }
 .a4{
     margin-left: 100px;
@@ -46,4 +46,129 @@ body{
 .b3{
     font-size: 25px;
     font-weight: 400;
+}
+.se{
+    margin-bottom: 150px;
+}
+.c1{
+    font-size: 40px;
+    color: #14279B;
+    padding-left: 450px;
+    padding-bottom: 50px;
+}
+.c2{
+    font-size: 40px;
+    font-weight: 550;
+}
+.c{
+    display: flex;
+    gap: 80px;
+    padding-top: 50px;
+}
+.cc{
+    background-color: #FFFFFF;
+    width: 350px;
+    height: 290px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 20px rgb(223, 222, 222);
+}
+.c3{
+    font-size: 25px;
+    font-weight: 600;
+    padding: 0px 0px 0px 60px;
+}
+.c4{
+    font-size: 25px;
+    padding-left: 10px;
+}
+.c5{
+    font-size: 20px;
+    padding-left: 65px;
+    padding-top: 5px;
+}
+.c6{
+    padding: 30px 0px 0px 60px;
+}
+.c7{
+    font-size: 25px;
+    font-weight: 600;
+    padding: 0px 0px 0px 90px; 
+}
+.c8{
+    font-size: 20px;
+    padding-left: 40px;
+    padding-top: 5px;
+}
+.c9{
+    font-size: 20px;
+    padding-left: 65px;
+    padding-top: 5px;
+}
+.dd{
+    display: flex;
+    gap: 80px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.l{
+    padding-left: 510px;
+}
+.d1{
+    position: relative;
+    top: -140px;
+    left: 30px;
+    font-size: 25px;
+    color: #6C63FF;
+    font-weight: 550;
+}
+.d3{
+    position: relative;
+    left: -130px;
+    top: 20px;
+}
+.d2{
+    position: relative;
+    top: -120px;
+    left: 20px;
+}
+.d4{
+    position: relative;
+    top: -100px;
+    left: 35px;
+}
+.d5{
+    font-size: 25px;
+    color: #6C63FF; 
+    position: relative;
+    top: 35px;
+    left: 30px;
+    font-weight: 550;
+}
+.d6{
+    color: #6C63FF;
+    position: relative;
+    top: 30px;
+    left: 120px;
+}
+.d7{
+    position: relative;
+    top: -25px;
+    left: 15px;
+}
+.d8{
+    position: relative;
+    top: -145px;
+    left: 38px;
+}
+.d9{
+    font-size: 25px;
+    position: relative;
+    top: 35px;
+    left: 30px;
+    font-weight: 550;
+}
+.d10{
+    position: relative;
+    top: 28px;
+    left: 30px;
 }
